@@ -37,7 +37,7 @@
         padding-bottom:7rem;
         background:-webkit-gradient(linear,left bottom,left top,from(#000000),to(#000000));
         /*background:linear-gradient(0deg,#000000 0,#000000 100%);*/
-        background:linear-gradient(0deg,#01c5cc 0,#4137da 100%);
+        background:linear-gradient(0deg,#ffffff 0,#1EBD5B 30%);
         background-repeat:no-repeat;
         background-position:center center;
         background-attachment:scroll;
@@ -59,7 +59,7 @@
         position:absolute;
         border-radius:100%;
         background:-webkit-gradient(linear,left bottom,left top,from(#0c0c0c),to(#2c098f));
-        background:linear-gradient(0deg,#01c5cc 0,#4137da 100%)
+        background:linear-gradient(0deg,#000000 0,#24E36D 100%);
     }
     header.masthead .bg-circle-1{
         height:85rem;
@@ -107,10 +107,6 @@
         }
     }
     @media (max-width:992px){
-        header.masthead{
-            
-            background:linear-gradient(0deg,#01c5cc 0,#4137da 100%)
-        }
     }
     .bg-primary{
         background-color:#ee0979!important
