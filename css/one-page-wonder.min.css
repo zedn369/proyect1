@@ -37,7 +37,7 @@
         padding-bottom:7rem;
         background:-webkit-gradient(linear,left bottom,left top,from(#000000),to(#000000));
         /*background:linear-gradient(0deg,#000000 0,#000000 100%);*/
-        background:linear-gradient(0deg,#ffffff 10%,rgb(34, 184, 189) 40%);
+        background:linear-gradient(0deg,#ffffff 10%,rgb(0, 155, 160) 40%);
         background-repeat:no-repeat;
         background-position:center center;
         background-attachment:scroll;
