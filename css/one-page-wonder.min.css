@@ -58,25 +58,31 @@
         position:absolute;
         border-radius:100%;
         background:-webkit-gradient(linear,left bottom,left top,from(#0c0c0c),to(#2c098f));
-        background:linear-gradient(0deg,#2e91ec 0,#6100bb 100%)
+        background:linear-gradient(0deg,#0b5a9e 0,#8336ff 100%)
     }
     header.masthead .bg-circle-1{
-        height:90rem;
-        width:90rem;
+        height:88rem;
+        width:88rem;
         bottom:-55rem;
         left:-55rem
     }
     header.masthead .bg-circle-2{
-        height:50rem;
-        width:50rem;
-        top:-25rem;
-        right:-25rem
+        height:88rem;
+        width:88rem;
+        top:-55rem;
+        right:-55rem
     }
     header.masthead .bg-circle-3{
-        height:28rem;
-        width:28rem;
-        bottom:-10rem;
-        right:-5%
+        height:15rem;
+        width:15rem;
+        bottom:-2rem;
+        right:18%;
+    }
+    header.masthead .bg-circle-5{
+        height:15rem;
+        width:15rem;
+        top:-2rem;
+        left:18%;
     }
     header.masthead .bg-circle-4{
         height:30rem;
