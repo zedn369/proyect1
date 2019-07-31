@@ -107,6 +107,14 @@
         }
     }
     @media (max-width:992px){
+        header.masthead .bg-circle-1,
+        header.masthead .bg-circle-2,
+        header.masthead .bg-circle-3,
+        header.masthead .bg-circle-4,
+        header.masthead .bg-circle-5{
+            height:0rem;
+            width:0rem;
+        }
     }
     .bg-primary{
         background-color:#ee0979!important
