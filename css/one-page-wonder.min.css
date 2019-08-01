@@ -35,7 +35,7 @@
         overflow:hidden;
         padding-top:calc(7rem + 72px);
         padding-bottom:7rem;
-        background-image: url("https://images.wallpaperscraft.com/image/city_art_sky_127834_3840x2400.jpg");
+        background-image: url("../img/04.jpg");
         background-size: 100%;
         /*
         background:-webkit-gradient(linear,left bottom,left top,from(#000000),to(#000000));
@@ -123,7 +123,7 @@
             width:0rem;
         }
         header.masthead{
-            background-size: 150% 100%;
+            background-size: 170% 100%;
         }
     }
     .bg-primary{
