@@ -124,6 +124,7 @@
         }
         header.masthead{
             background-size: 170% 100%;
+            background-image: url("../img/04-min.jpg");
         }
     }
     .bg-primary{
